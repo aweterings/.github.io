@@ -1,5 +1,5 @@
 ---
-title: "YOUR-TITLE"
+title: "First post on Github"
 date: 2024-07-03
 ---
 Title for first post here
